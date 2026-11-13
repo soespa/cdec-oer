@@ -1,0 +1,14 @@
+folium
+geopy
+jupyter
+opencv-python-headless
+mapclassify
+plotly
+pvlib
+regionmask
+ultralytics
+geopy
+openeo
+rio_cogeo
+geolibre
+leafmap

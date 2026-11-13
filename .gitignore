@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+venv
+*/.ipynb_checkpoints*
+*/py_cache/*
+*checkpoint*
+/modul_2/03_photovoltaik/data/solarkataster.gdb/
