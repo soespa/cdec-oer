@@ -21,6 +21,22 @@ The website also offers a getting-started guide, data projects, reusable code sn
 - Read the material: [material.cdec.io](https://material.cdec.io)
 - Project website: [cdec.io](https://cdec.io)
 
+## Usage
+
+### Pixi
+
+We recommend to install the environment with [Pixi](https://pixi.prefix.dev/dev/installation/).
+
+```bash
+pixi install
+```
+
+For Module 2.3 additional packages are required, that can be installed with the following command:
+
+```bash
+pixi install -e vision
+```
+
 ## License
 
 Unless stated otherwise, the material is licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). You may share and adapt it, including commercially, if you give appropriate credit and distribute your changes under the same license.

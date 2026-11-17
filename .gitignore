@@ -5,3 +5,6 @@ venv
 */py_cache/*
 *checkpoint*
 /modul_2/03_photovoltaik/data/solarkataster.gdb/
+# pixi environments
+.pixi/*
+!.pixi/config.toml
