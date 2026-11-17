@@ -25,6 +25,11 @@ rio-cogeo = "*"
 geolibre = "*"
 leafmap = "*"
 statsmodels = "*"
+matplotlib = "*"
+numpy = "*"
+scikit-learn = "*"
+shapely = "*"
+tqdm = "*"
 
 [feature.vision.pypi-dependencies]
 opencv-python-headless = "*"
