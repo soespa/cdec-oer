@@ -9,6 +9,8 @@ regionmask
 ultralytics
 geopy
 openeo
+geopandas
 rio_cogeo
 geolibre
 leafmap
+statsmodels
