@@ -1,0 +1,40 @@
+[project]
+name = "cdec-oer"
+version = "0.1.0"
+requires-python = ">=3.12,<3.13"
+authors = [
+    { name = "Soeren Sparmann", email = "sparmann@mail.uni-paderborn.de" }
+]
+
+dependencies = [
+    "python-dateutil",
+    "ipykernel",
+    "folium",
+    "geopy",
+    "jupyter",
+    "mapclassify",
+    "plotly",
+    "pvlib",
+    "regionmask",
+    "openeo",
+    "geopandas",
+    "rio-cogeo",
+    "geolibre",
+    "leafmap",
+    "statsmodels",
+    "matplotlib",
+    "numpy",
+    "scikit-learn",
+    "shapely",
+    "tqdm",
+]
+
+[dependency-groups]
+vision = [
+    "opencv-python-headless",
+    "ultralytics",
+    "torchvision",
+]
+
+[tool.uv]
+package = false

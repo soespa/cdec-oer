@@ -23,18 +23,18 @@ The website also offers a getting-started guide, data projects, reusable code sn
 
 ## Usage
 
-### Pixi
+### UV
 
-We recommend to install the environment with [Pixi](https://pixi.prefix.dev/dev/installation/).
+We recommend to install the environment with [UV](https://docs.astral.sh/uv/getting-started/installation/#standalone-installer).
 
 ```bash
-pixi install
+uv sync --locked
 ```
 
 For Module 2.3 additional packages are required, that can be installed with the following command:
 
 ```bash
-pixi install -e vision
+uv sync --group vision
 ```
 
 ## License

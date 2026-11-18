@@ -1,6 +1,7 @@
 .idea
 .DS_Store
 venv
+.venv
 */.ipynb_checkpoints*
 */py_cache/*
 *checkpoint*
